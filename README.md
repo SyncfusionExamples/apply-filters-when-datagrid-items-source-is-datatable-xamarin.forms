@@ -1,2 +1,1 @@
-# apply-filters-when-datagrid-items-source-is-datatable-xamarin.forms
-How to apply filters when Xamarin.Forms DataGrid items source is DataTable (SfDataGrid) ?
+**[View document in Syncfusion Xamarin.Forms Knowledge Base](https://www.syncfusion.com/kb/13750/how-to-apply-filters-when-xamarin-forms-datagrid-items-source-is-datatable-sfdatagrid)**
